@@ -21,7 +21,7 @@ span {
 }
 
 .half-width p {
-    margin-bottom: 30px;
+    margin-bottom: 47px;
     color: rgba(26, 23, 23, 0.534);
     font-weight: 600;
 
@@ -34,7 +34,7 @@ span {
     border-radius: 30px;
     background-image: linear-gradient(to right, tomato, red);
     color: white;
-    margin-top: 10px;
+    margin-top: 40px;
 
 }
 
@@ -55,6 +55,7 @@ span {
 #about {
     display: flex;
     background-image: url("images/shapes/7.png");
+    background-repeat: no-repeat;
 }
 
 #img2 {
